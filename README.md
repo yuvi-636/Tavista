@@ -1,1 +1,2 @@
 # Tavista
+Travista is a comprehensive traveling website aimed at providing users with a seamless travel planning and booking experience. The platform offers a wide range of features and functionalities to cater to the diverse needs of travellers, including itinerary planning, destination guides, hotel and flight bookings, travel tips, and more. With a user-friendly interface and intuitive design, Travista aims to become the go-to platform for travellers looking to explore new destinations and make their travel experiences memorable.
